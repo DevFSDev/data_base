@@ -1,0 +1,5 @@
+_id,client,dates.end,dates.liabilities,dates.start,economic,keyProject,name,status
+645de83a30eb6eea4ec368ea,Transportes SA,2024-05-31,2024-12-31,2023-06-01,"[{""category"":""Salaries"",""amount"":50000},{""category"":""Equipment"",""amount"":250000},{""category"":""Marketing"",""amount"":10000}]",MODFL-2023,EMT Valencia,Preventa
+645de83a30eb6eea4ec368eb,XYZ Corp,2024-06-30,2024-12-31,2023-07-01,"[{""category"":""Salaries"",""amount"":75000},{""category"":""Equipment"",""amount"":350000},{""category"":""Marketing"",""amount"":20000}]",TI-2023,Tech Innovations,Ejecución
+645de83a30eb6eea4ec368ec,ABC Inc.,2024-08-31,2024-12-31,2023-09-01,"[{""category"":""Salaries"",""amount"":85000},{""category"":""Equipment"",""amount"":400000},{""category"":""Marketing"",""amount"":25000}]",EC-2023,E-commerce Platform,Ejecución
+645de83a30eb6eea4ec368ed,PQR Corp,2023-12-31,2024-03-31,2023-06-15,"[{""category"":""Salaries"",""amount"":50000},{""category"":""Equipment"",""amount"":25000},{""category"":""Marketing"",""amount"":15000}]",SMA-2023,Social Media Analytics,Preventa

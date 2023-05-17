@@ -1,0 +1,21 @@
+_id,department,team
+644a5f014e4f7f64d945736c,Desarrollo,Backend
+644a5f014e4f7f64d945736d,Desarrollo,Frontend
+644a5f014e4f7f64d945736e,Desarrollo,Embedend
+644a5f014e4f7f64d945736f,Desarrollo,Databasend
+644a5f014e4f7f64d9457370,Sistemas,Redes
+644a5f014e4f7f64d9457371,Sistemas,Cloud
+644a5f014e4f7f64d9457372,Sistemas,Monitorización
+644a5f014e4f7f64d9457373,Operaciones,Bases de datos
+644a5f014e4f7f64d9457374,Operaciones,Contenedores
+644a5f014e4f7f64d9457375,Operaciones,Integraciones
+644a5f014e4f7f64d9457376,Operaciones,Seguridad
+644a5f014e4f7f64d9457377,Calidad,Código
+644a5f014e4f7f64d9457378,Calidad,Producto
+644a5f014e4f7f64d9457379,Calidad,Proceso
+644a5f014e4f7f64d945737a,Diseño,UX
+644a5f014e4f7f64d945737b,Diseño,UI
+644a5f014e4f7f64d945737c,Comunicación,CMS
+644a5f014e4f7f64d945737d,Comunicación,Promoción
+644a5f014e4f7f64d945737e,Comunicación,Estadística
+644a5f014e4f7f64d945737f,CAU,CAU

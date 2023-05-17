@@ -1,0 +1,7 @@
+_id,bounds.e-top,bounds.n-top,bounds.o-top,bounds.t-top,cargo
+646238cf03331f9d38f296b2,-1,0,-0.3,-1,Tecnico
+646238cf03331f9d38f296b3,-1,1,-0.3,0,Analista
+646238cf03331f9d38f296b4,-0.3,0,0.3,-1,Responsable tecnico
+646238cf03331f9d38f296b5,-0.3,1,0.3,0,Responsable proyecto
+646238cf03331f9d38f296b6,0.3,0,1,-1,Responsable area
+646238cf03331f9d38f296b7,0.3,1,1,0,Responsable negocio

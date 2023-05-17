@@ -1,0 +1,61 @@
+_id,department,skill,team
+642c387f433bb2cc93f631f1,Desarrollo,Spring,Backend
+642c387f433bb2cc93f631f2,Desarrollo,NodeJS,Backend
+642c387f433bb2cc93f631f3,Desarrollo,NET,Backend
+642c387f433bb2cc93f631f4,Desarrollo,Django,Backend
+642c387f433bb2cc93f631f5,Desarrollo,Go,Backend
+642c387f433bb2cc93f631f6,Desarrollo,Android,Frontend
+642c387f433bb2cc93f631f7,Desarrollo,iOS,Frontend
+642c387f433bb2cc93f631f8,Desarrollo,Flutter,Frontend
+642c387f433bb2cc93f631f9,Desarrollo,React,Frontend
+642c387f433bb2cc93f631fa,Desarrollo,ReactNative,Frontend
+642c387f433bb2cc93f631fb,Desarrollo,AngularJS,Frontend
+642c387f433bb2cc93f631fc,Desarrollo,Vue,Frontend
+642c387f433bb2cc93f631fd,Desarrollo,Ionic,Frontend
+642c387f433bb2cc93f631fe,Desarrollo,C++,Embedend
+642c387f433bb2cc93f631ff,Desarrollo,QT,Embedend
+642c387f433bb2cc93f63200,Desarrollo,Arduino,Embedend
+642c387f433bb2cc93f63201,Desarrollo,PLSQL,Databasend
+642c387f433bb2cc93f63202,Desarrollo,PG-PLSQL,Databasend
+642c387f433bb2cc93f63203,Sistemas,VLAN,Redes
+642c387f433bb2cc93f63204,Sistemas,IPSec,Redes
+642c387f433bb2cc93f63205,Sistemas,SSL,Redes
+642c387f433bb2cc93f63206,Sistemas,Nginx,Redes
+642c387f433bb2cc93f63207,Sistemas,AWS,Cloud
+642c387f433bb2cc93f63208,Sistemas,GCS,Cloud
+642c387f433bb2cc93f63209,Sistemas,OCI,Cloud
+642c387f433bb2cc93f6320a,Sistemas,Azure,Cloud
+642c387f433bb2cc93f6320b,Sistemas,CheckMK,Monitorización
+642c387f433bb2cc93f6320c,Sistemas,Jolokia,Monitorización
+642c387f433bb2cc93f6320d,Sistemas,Nagios,Monitorización
+642c387f433bb2cc93f6320e,Operaciones,Postgres,Bases de datos
+642c387f433bb2cc93f6320f,Operaciones,MySQL,Bases de datos
+642c387f433bb2cc93f63210,Operaciones,Oracle,Bases de datos
+642c387f433bb2cc93f63211,Operaciones,Mongo,Bases de datos
+642c387f433bb2cc93f63212,Operaciones,MariaDB,Bases de datos
+642c387f433bb2cc93f63213,Operaciones,Tomcat,Contenedores
+642c387f433bb2cc93f63214,Operaciones,Docker,Contenedores
+642c387f433bb2cc93f63215,Operaciones,Kubernetes,Contenedores
+642c387f433bb2cc93f63216,Operaciones,Jenkins,Integraciones
+642c387f433bb2cc93f63217,Operaciones,Bamboo,Integraciones
+642c387f433bb2cc93f63218,Operaciones,WSO2,Seguridad
+642c387f433bb2cc93f63219,Operaciones,KONG,Seguridad
+642c387f433bb2cc93f6321a,Operaciones,Gravitee,Seguridad
+642c387f433bb2cc93f6321b,Calidad,JMeter,Código
+642c387f433bb2cc93f6321c,Calidad,SonarQube,Código
+642c387f433bb2cc93f6321d,Calidad,ESLint,Código
+642c387f433bb2cc93f6321e,Calidad,Selenium,Producto
+642c387f433bb2cc93f6321f,Calidad,Espresso,Producto
+642c387f433bb2cc93f63220,Calidad,BSM,Proceso
+642c387f433bb2cc93f63221,Diseño,Figma,UX
+642c387f433bb2cc93f63222,Diseño,AdobeXD,UX
+642c387f433bb2cc93f63223,Diseño,Zeplin,UX
+642c387f433bb2cc93f63224,Diseño,Illustrator,UI
+642c387f433bb2cc93f63225,Diseño,Photoshop,UI
+642c387f433bb2cc93f63226,Diseño,Premiere,UI
+642c387f433bb2cc93f63227,Comunicación,Xibo,CMS
+642c387f433bb2cc93f63228,Comunicación,Wordpress,CMS
+642c387f433bb2cc93f63229,Comunicación,Agility,CMS
+642c387f433bb2cc93f6322a,Comunicación,Promoción,Promoción
+642c387f433bb2cc93f6322b,Comunicación,Estadística,Estadística
+642c387f433bb2cc93f6322c,CAU,CAU,CAU
